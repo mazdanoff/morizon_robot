@@ -1,0 +1,3 @@
+from .morizon_main_page import MorizonMainPage
+from .morizon_results_page import MorizonResultsPage
+from .morizon_offer_page import MorizonOfferPage
